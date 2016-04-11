@@ -52,3 +52,7 @@ a:visited {
 a#navigate {
 	margin-left: 30px;
 }
+
+th.th-color {
+	background-color: gray;
+}
