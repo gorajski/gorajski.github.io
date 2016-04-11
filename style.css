@@ -1,8 +1,17 @@
+html {
+	background-image: url("gradient.png");
+	background-size: 100% 100%;
+}
+
 body {
 	font-family: Helvetica;
  	max-width: 960px;
+ 	padding: 10px;
+ 	border-radius: 25px;
 	display: table;
-  	margin: auto;
+  	margin: 10px auto;
+  	background-color: white;
+  	background-blend-mode: add;
 }
 
 p, section, table, img {
@@ -19,7 +28,7 @@ h2 {
 
 h3 {
 	max-width: 280px;
-	background-color: yellow;
+	background-image: url("ocean-sky.jpg");
 	padding: 5px;
 	border: 1px solid black;
 	border-radius: 5px;
@@ -34,4 +43,8 @@ section {
 
 caption {
 	margin: 10px;
+}
+
+a#navigate {
+	margin-left: 30px;
 }
