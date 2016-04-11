@@ -45,6 +45,10 @@ caption {
 	margin: 10px;
 }
 
+a:visited {
+	color: red;
+}
+
 a#navigate {
 	margin-left: 30px;
 }
