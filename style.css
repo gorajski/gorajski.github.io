@@ -1,3 +1,76 @@
+html {
+	background-image: url("gradient.png");
+	background-size: 100% 100%;
+}
+
 body {
-	background: blue;
+	font-family: Helvetica;
+ 	max-width: 1000px;
+ 	padding: 10px;
+ 	border-radius: 25px;
+	display: table;
+  	margin: 10px auto;
+  	background-color: white;
+}
+
+p, section, table, img {
+	margin-left: 30px;
+}
+
+table {
+	margin: 0 auto;  /* Centered */
+}
+
+h2 {
+	font-family: Verdana;
+}
+
+h3 {
+	max-width: 280px;
+	background-image: url("ocean-sky.jpg");
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	margin-bottom: -5px;
+	margin-top: 25px;
+}
+
+section {
+	margin: 20px;
+}
+
+caption {
+	margin: 10px;
+}
+
+a:visited {
+	color: red;
+}
+
+a#navigate {
+	margin-left: 30px;
+}
+
+th.th-color {
+	background-color: gray;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+  	font-size: 0.8em;
+  }
+  img {
+    width: 50%;
+  }
+  p, section, table, img {
+	margin-left: 0px;
+}
+}
+
+@media screen and (max-width: 400px) {
+  table {
+  	font-size: 0.6em;
+  }
+
 }
