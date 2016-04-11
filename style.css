@@ -1,3 +1,37 @@
 body {
-	background: blue;
+	font-family: Helvetica;
+ 	max-width: 960px;
+	display: table;
+  	margin: auto;
+}
+
+p, section, table, img {
+	margin-left: 30px;
+}
+
+table {
+	margin: 0 auto;
+}
+
+h2 {
+	font-family: Verdana;
+}
+
+h3 {
+	max-width: 280px;
+	background-color: yellow;
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	margin-bottom: -5px;
+	margin-top: 25px;
+}
+
+section {
+	margin: 20px;
+}
+
+caption {
+	margin: 10px;
 }
