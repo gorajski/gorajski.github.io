@@ -5,7 +5,7 @@ html {
 
 body {
 	font-family: Helvetica;
- 	max-width: 960px;
+ 	max-width: 1000px;
  	padding: 10px;
  	border-radius: 25px;
 	display: table;
@@ -19,7 +19,7 @@ p, section, table, img {
 }
 
 table {
-	margin: 0 auto;
+	margin: 0 auto;  /* Centered */
 }
 
 h2 {
@@ -55,4 +55,23 @@ a#navigate {
 
 th.th-color {
 	background-color: gray;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+  	font-size: 0.8em;
+  }
+  img {
+    width: 50%;
+  }
+  p, section, table, img {
+	margin-left: 0px;
+}
+}
+
+@media screen and (max-width: 400px) {
+  table {
+  	font-size: 0.6em;
+  }
+
 }
