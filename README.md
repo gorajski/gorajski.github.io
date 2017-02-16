@@ -1,1 +1,0 @@
-# gorajski.github.io
