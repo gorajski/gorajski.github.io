@@ -5,5 +5,7 @@ I am a web developer in Chicago, Illinois.  (Not [Chicago, Guatemala](http://bit
 ### Contact
 
 [Send me an email](mailto:nickgorajski@gmail.com)
+
 [Find me on Github](https://github.com/gorajski)
+
 [Find me on BitBucket](https://bitbucket.org/gorajski)
