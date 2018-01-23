@@ -11,7 +11,7 @@ I am a web developer in Chicago, Illinois.
 [Find me on BitBucket](https://bitbucket.org/gorajski)
 
 My November:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TyHvyGVs42U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 My December:
