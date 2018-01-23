@@ -9,3 +9,5 @@ I am a web developer in Chicago, Illinois.  (Not [Chicago, Guatemala](http://bit
 [Find me on Github](https://github.com/gorajski)
 
 [Find me on BitBucket](https://bitbucket.org/gorajski)
+
+Was this easy, or what?!
