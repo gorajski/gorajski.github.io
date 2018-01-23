@@ -1,6 +1,6 @@
 ## Hey there...I'm Nick Gorajski!
 
-I am a web developer in Chicago, Illinois.  (Not [Chicago, Guatemala](http://bit.ly/2kM3DJj)...although it sounds beautiful.)
+I am a web developer in Chicago, Illinois.
 
 ### Contact
 
@@ -10,4 +10,9 @@ I am a web developer in Chicago, Illinois.  (Not [Chicago, Guatemala](http://bit
 
 [Find me on BitBucket](https://bitbucket.org/gorajski)
 
-Was this easy, or what?!
+My November:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyHvyGVs42U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+My December:
+
